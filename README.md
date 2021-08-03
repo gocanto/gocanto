@@ -17,4 +17,4 @@ I'm Gus! I'm a full-stack web developer who has been building web technologies f
 
 I like to work in environments where my critical and analytical thinking, entrepreneurial mindset, and passion for my work will contribute to a team.
 
-:runner: Currently learning `golang`
+:runner: Currently learning [golang](https://github.com/golang-room)
