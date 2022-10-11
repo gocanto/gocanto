@@ -8,13 +8,13 @@
   </a>
 </p>
 
-<a href="https://github.com/gocanto"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=gocanto&show_icons=true" align="right" height="150" /></a>
 
 
 ### Hi there 👋
 
-I'm Gus! I'm a full-stack Software Engineer who has been building web technologies for more than a decade.
+I'm <a href="https://gocanto.dev/">Gus!</a> I'm a full-stack Software Engineer who has been building web technologies for more than a decade.
 
 I like to work in environments where my critical and analytical thinking, entrepreneurial mindset, and passion for my work will contribute to a team.
 
-:runner: [Golang](https://github.com/voyago) Enthusiast.
+
+I am also a [Golang](https://github.com/voyago) Enthusiast :runner:.
