@@ -17,4 +17,4 @@ I'm <a href="https://gocanto.dev/">Gus!</a> I'm a full-stack Software Engineer w
 I like to work in environments where my critical and analytical thinking, entrepreneurial mindset, and passion for my work will contribute to a team.
 
 
-I am also a [Golang](https://github.com/voyago) Enthusiast :runner:.
+I am also a [Golang](https://github.com/voyago) enthusiast :runner:.
