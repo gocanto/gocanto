@@ -12,9 +12,9 @@
 
 ### Hi there 👋
 
-I'm <a href="https://gocanto.dev/">Gus!</a> I'm a full-stack Software Engineer who has been building web technologies for more than a decade.
+I'm <a href="https://gocanto.dev/">Gus!</a> a full-stack Software Engineer who has been building web technologies for more than a decade.
 
 I like to work in environments where my critical and analytical thinking, entrepreneurial mindset, and passion for my work will contribute to a team.
 
 
-I am also a [Golang](https://github.com/voyago) enthusiast :runner:.
+I am also a [Golang](https://github.com/voyago) enthusiast :runner:
