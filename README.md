@@ -10,14 +10,8 @@
 
 
 ### About Me 
-I am a dedicated <a href="https://gocanto.dev/">engineering leader</a> passionate about building seamless, high-quality experiences for organizations and open source. With over fifteen years of experience in software development, workplace technology, and infrastructure management, I specialize in Golang, Node.js, and PHP. I am proficient in Laravel, Symfony, and modern web frameworks like Next.Js. I have led teams designing and implementing scalable, high-performance systems, ensuring reliability and efficiency across complex technical environments. 
 
-Beyond technical expertise, I have a strong leadership background in managing cross-functional teams, optimizing workflows, and implementing best practices that drive productivity and innovation. I thrive in fast-paced environments that demand strategic thinking, problem-solving, and a commitment to delivering high-quality results. 
-
-I have worked closely with financial services companies, delivering secure and compliant solutions that align with industry regulations. I understand financial institutions' technical and operational demands and have implemented robust architectures that support high-availability systems, data security, and transactional integrity. 
-
-In addition to my software engineering and <a href="https://www.linkedin.com/in/gocanto/">leadership experience</a>, I have extensive expertise in workplace technology and IT infrastructure management. I have overseen cloud infrastructure, on-premises network administration, and enterprise IT solutions, ensuring secure, scalable, and efficient operations. My knowledge extends to user management, security policies, and system integration, making me well-versed in enterprise collaboration tools.
-
+I'm a full-stack <a href="https://gocanto.dev/">Software Engineer</a> leader with over <a href="https://www.linkedin.com/in/gocanto/">two decades</a> of building complex web systems and products, specialising in areas like e-commerce, banking, cross-payment solutions, cyber security, and customer success.
 
 ### Top skills
-Leadership • Strategic Planning • Management • Communication • Software Engineering
+Leadership • Strategic Planning • Management • Communication • Software Engineering • AI
