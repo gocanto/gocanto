@@ -1,10 +1,15 @@
 <p>
   <a href="https://twitter.com/gocanto">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gocanto?style=for-the-badge">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gocanto?style=social">
+  </a>
+
+  <a>
+    <a href="https://github.com/gocanto">
+    <img alt="Gus's GitHub" src="https://img.shields.io/github/followers/gocanto?style=social">
   </a>
 
   <a href="https://github.com/sponsors/gocanto">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=social">
   </a>
 </p>
 
